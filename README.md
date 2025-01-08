@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: TypeError.  The bug.py file contains code that attempts to add an integer and a string, resulting in a TypeError. The bugSolution.py file provides a corrected version that handles type conversion to avoid this error.
